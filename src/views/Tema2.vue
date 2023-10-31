@@ -57,7 +57,7 @@
     Separador 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.1 Clasificación de #[i malware] 
-    p(data-aos="fade-down").mb-4 Para realizar una categorización del malware y de la proliferación de las amenazas presentes en la red, es necesario conocerlos, estos son:
+    p(data-aos="fade-down").mb-4 Para realizar una categorización del #[i malware] y de la proliferación de las amenazas presentes en la red, es necesario conocerlos, estos son:
 
     .bg11.mb-5
       .row.justify-content-center.align-items-center        
@@ -104,7 +104,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/41.svg', alt='')
       .col.my-3
         p(data-aos="fade-down").mb-0 Con la proliferación de diversidad de virus informáticos, la seguridad del sistema se ha vuelto prioritaria. Los virus tienden a ser destructivos y se propagan a través de las redes haciendo copias de sí mismo, cuando llegan a un dispositivo, los virus normalmente empiezan a infectar y replicarse en el equipo destino del ataque o puede permanecer inactivo a la espera de que el usuario ejecute el programa infectado. 
-        
+    p(data-aos="fade-down") Estas son las fases por las que puede pasar un virus informático:       
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 1.
       span Fases del virus informático
@@ -113,13 +113,14 @@
       img.img-a.img-t.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/temas/42.svg', alt='Esquema gráfico que da cuenta de las fases de un virus informático.')      
 
 
-    h5(data-aos="fade-down").mb-5 Conozca otros aspectos clave sobre los virus informáticos, consultando el video que se, a continuación, se propone:
+    p(data-aos="fade-down").mt-5 Conozca otros aspectos clave sobre los virus informáticos, consultando el video que se, a continuación, se propone:
 
     .row.justify-content-center.align-items-center       
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/x56FT_OVARQ?si=Iw90gfpqp8CL-65S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        figcaption Video. Ataques de seguridad en la red
 </template>
 
 <script>

@@ -16,7 +16,7 @@
     .row.justify-content-center.align-items-center  
       .col-lg-8.my-3 
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg13")
-          .row.justify-content-center(titulo="Router de filtrado")
+          .row.justify-content-center(titulo="<i>Router</i> de filtrado")
             .col.order-1.my-3
               p.mb-0 En los dispositivos de red se deben establecer mecanismos de filtrado que permitan llevar a cabo el bloqueo de direcciones IP y, a su vez, la prohibición de transmisión de protocolos de capa de red o de transporte utilizados (UDP, TCP o ICMP).  
             .col-lg-auto.order-lg-2.my-3 

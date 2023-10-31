@@ -146,14 +146,6 @@ export default {
   },
   complementario: [
     {
-      tema: '1.2 Clasificación de los ataques',
-      referencia:
-        'Cisco Networking Academy. (2021). <i>Introducción a redes</i>.',
-      tipo: 'Aplicación web',
-      link:
-        'https://www.itesa.edu.mx/netacad/introduccion/course/module11/#11.2.1.1',
-    },
-    {
       tema: '6. Políticas de seguridad',
       referencia: 'ISOTools. (s.f.). <i>La norma ISO 27001</i>.',
       tipo: 'Informe - guía',
@@ -270,45 +262,16 @@ export default {
             'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
         },
         {
-          nombre: 'Luz Mila Pacheco Fuentes',
-          cargo: 'Diseñadora Instruccional',
-          centro:
-            'Centro de Diseño y Metrología - Centro de Diseño y Metrología',
-        },
-        {
-          nombre: 'Julieth Paola Vital López',
-          cargo: 'Corrección de estilo',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Centro de Diseño y Metrología',
-        },
-        {
           nombre: 'Cinthia Rocío Trejos Chacón',
           cargo: 'Experta Temática',
           centro:
             'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
         {
-          nombre: 'Deivis Eduard Ramírez Martínez',
-          cargo: 'Diseñador instruccional',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Andrés Felipe Velandia Espitia',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Diseñador y evaluador instruccional',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-        },
-        {
           nombre: 'Fabián Leonardo Correa Díaz',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Fabián Leonardo Correa Díaz',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro para la Industria de la Comunicación Gráfica - Centro de Diseño y Metrología',
         },
       ],
     },
@@ -328,8 +291,20 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Storyboard e Ilustración',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Carmen Alicia Martinez Torres',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Locución',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },

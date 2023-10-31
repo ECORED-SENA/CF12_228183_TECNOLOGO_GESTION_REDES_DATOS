@@ -36,8 +36,8 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video. 
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/1nLP8bbjQrY?si=pk4So4GSUv8Retfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video. Generalidades de Seguridad en la Red
 
     Separador 
     #t_1_1.titulo-segundo.color-acento-contenido.mb-3(data-aos="zoom-in-left")
@@ -103,7 +103,7 @@
                           | Control suficiente sobre los programas malintencionados. 
                   tr.bgw
                     td Ausencia o mala estrategia de protección de datos.                                        
-                    td Complejidad funcional                                        
+                    td Complejidad funcional.                                        
                     td Mala utilización del correo.                                        
               figcaption Nota: adaptada de Carpentier (2016).
 
@@ -116,7 +116,7 @@
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.png', alt='')            
               .col-md-7.my-3
                 h4.tb Activos 
-                p Pueden estar representados por equipos, hardware, programas informáticos, patentes, procesos y actividades de negocio.   
+                p Pueden estar representados por equipos, #[i hardware], programas informáticos, patentes, procesos y actividades de negocio.   
             .row.justify-content-center
               .col-md-5.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.png', alt='')            
@@ -220,7 +220,7 @@
             .row.justify-content-center(titulo="<i>Phishing</i>")
               .col-9.order-1.my-3
                 h4 Phishing
-                p.mb-0 Es la capacidad de duplicar una página web a fin de usurparla original de ahí el usuario que accede a dicha página se cree que es la auténtica.   
+                p.mb-0 Es la capacidad de duplicar una página web a fin de usurpar la original de ahí el usuario que accede a dicha página se cree que es la auténtica.   
               .col-lg-auto.order-lg-2.my-3 
                 img.img-a.img-t(src='@/assets/curso/temas/22.svg', alt='')
             .row.justify-content-center(titulo="<i>Spam</i>")
