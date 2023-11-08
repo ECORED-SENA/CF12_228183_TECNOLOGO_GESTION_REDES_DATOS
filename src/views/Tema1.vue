@@ -156,7 +156,7 @@
         .row.justify-content-center.align-items-center.mb-4           
           .col-lg-8.my-3
             .bg6.p-4.brad.mb-4   
-              p.mb-0(data-aos="fade-down") La mayoría de las amenazas en la red se encargan de revelar las vulnerabilidades de la seguridad en la red de datos. Las agresiones a las redes de comunicaciones se pueden determinar cómo acciones deliberadas en aras de corromper o violar su seguridad.
+              p.mb-0(data-aos="fade-down") La mayoría de las amenazas en la red se encargan de revelar las vulnerabilidades de la seguridad en la red de datos. Las agresiones a las redes de comunicaciones se pueden determinar como acciones deliberadas en aras de corromper o violar su seguridad.
             h5(data-aos="fade-down") El intruso emplea algún tipo de ataque informático a la hora de establecer un acceso no autorizado al sistema y estas agresiones se pueden clasificar en dos grupos, así:
           .col-lg-4.my-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/14.png', alt='')            
@@ -219,25 +219,25 @@
                 img.img-a.img-t(src='@/assets/curso/temas/21.svg', alt='')
             .row.justify-content-center(titulo="<i>Phishing</i>")
               .col-9.order-1.my-3
-                h4 Phishing
+                h4.fst-italic Phishing
                 p.mb-0 Es la capacidad de duplicar una página web a fin de usurpar la original de ahí el usuario que accede a dicha página se cree que es la auténtica.   
               .col-lg-auto.order-lg-2.my-3 
                 img.img-a.img-t(src='@/assets/curso/temas/22.svg', alt='')
             .row.justify-content-center(titulo="<i>Spam</i>")
               .col-9.order-1.my-3
-                h4 Spam
-                p.mb-0 Envío de correo electrónico que puede ser enviado en forma individual o masivo, estos mensajes pueden contener información variada que no fue solicitada por el destinatario de la información.
+                h4.fst-italic Spam
+                p.mb-0 Envío de correo electrónico que puede ser enviado en forma individual o masiva, estos mensajes pueden contener información variada que no fue solicitada por el destinatario de la información.
               .col-lg-auto.order-lg-2.my-3 
                 img.img-a.img-t(src='@/assets/curso/temas/23.svg', alt='')
             .row.justify-content-center(titulo="<i>Spoofing</i>")
               .col-9.order-1.my-3
-                h4 Spoofing
+                h4.fst-italic Spoofing
                 p.mb-0 Es la suplantación de identidad, se aplica la falsificación en una transmisión de datos donde el atacante por medio de agentes maliciosos se hace pasar por una entidad o un usuario a fin de obtener información privada o el uso de credenciales falsas. 
               .col-lg-auto.order-lg-2.my-3 
                 img.img-a.img-t(src='@/assets/curso/temas/24.svg', alt='')
             .row.justify-content-center(titulo="<i>Main in the Middle</i>")
               .col-9.order-1.my-3
-                h4 Main in the Middle
+                h4.fst-italic Main in the Middle
                 p.mb-0 Se basa en la ubicación del atacante en medio de una comunicación entre dos entes, que busca leer o modificar la información transmitida entre las dos partes. 
               .col-lg-auto.order-lg-2.my-3 
                 img.img-a.img-t(src='@/assets/curso/temas/25.svg', alt='')
@@ -249,7 +249,7 @@
                 img.img-a.img-t(src='@/assets/curso/temas/26.svg', alt='')
             .row.justify-content-center(titulo="<i>Hoax</i>")
               .col-9.order-1.my-3
-                h4 Hoax
+                h4.fst-italic Hoax
                 p.mb-0 Estos mensajes principalmente se envían vía correo electrónico que suele pertenecer a una cadena de información que busca ser difundida en la red, su principal finalidad es la obtención de direcciones de correo electrónico, o congestión de la red y de los servidores de correo.
               .col-lg-auto.order-lg-2.my-3 
                 img.img-a.img-t(src='@/assets/curso/temas/27.svg', alt='')

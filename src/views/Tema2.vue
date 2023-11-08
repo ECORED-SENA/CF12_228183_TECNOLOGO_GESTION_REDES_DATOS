@@ -19,12 +19,13 @@
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/31.svg', alt='')
               .col.my-3
                 p(data-aos="fade-down").mb-0 El estudio de las diferentes vulnerabilidades de los dispositivos de red y sus correspondientes aplicaciones requieren una atención especial a fin de estar preparados de los posibles ataques que provengan desde el exterior, así como el interior de las organizaciones, captando errores y falencias en las conexiones en la red. 
-            .bloque-texto-c.color-secundario.p-4(data-aos="fade-left")
-              i.fas.fa-quote-right
-              h4.mb-2 Las principales vulnerabilidades de los dispositivos finales son los ataques de virus, gusanos y troyanos.
-              span - Ariganello (2020) (p. 291).   
 
-
+            .bloque-texto-b.color-secundario.p-4(data-aos="fade-left")
+              .bloque-texto-b__texto
+                i.fas.fa-quote-left
+                h4.mb-2 Las principales vulnerabilidades de los dispositivos finales son los ataques de virus, gusanos y troyanos 
+                span - Ariganello (2020) (p. 291). 
+                i.fas.fa-quote-right
         .bgw.p-4.brad 
           .row.justify-content-center.align-items-center
             .col.my-3.order-1            
@@ -50,7 +51,7 @@
                   span El #[i malware] o #[i software] malicioso se instala en la máquina objetivo sin consentimiento del usuario. 
                 li 
                   i.fas.fa-project-diagram.c1
-                  span Cuando un #[i malware] se ejecuta puede alterar algunas prestaciones de la máquina infectada como lo puede ser la velocidad , las tareas que el usuario desea realizar y obtener información crítica del sistema.                
+                  span Cuando un #[i malware] se ejecuta puede alterar algunas prestaciones de la máquina infectada como lo puede ser la velocidad, las tareas que el usuario desea realizar y obtener información crítica del sistema.                
             .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.svg', alt='')
 
@@ -93,7 +94,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/40.svg' alt='')
-              h2 Rasnsomware 
+              h2.fst-italic Rasnsomware 
               p.mb-0 Tipo de #[i malware] que basa su funcionamiento en el robo o secuestro de información por la que se suele cobrar un rescate y, así, restaurar el acceso a los datos y evitar posibles daños posteriores. 
     Separador 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -113,7 +114,7 @@
       img.img-a.img-t.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/temas/42.svg', alt='Esquema gráfico que da cuenta de las fases de un virus informático.')      
 
 
-    p(data-aos="fade-down").mt-5 Conozca otros aspectos clave sobre los virus informáticos, consultando el video que se, a continuación, se propone:
+    p(data-aos="fade-down").mt-5 Conozca otros aspectos clave sobre los virus informáticos, consultando el video que, a continuación, se propone:
 
     .row.justify-content-center.align-items-center       
       .col-lg-12(data-aos="fade-left")     

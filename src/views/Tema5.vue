@@ -21,7 +21,7 @@
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 2.
-      span Conexión, en red, del firewall
+      span Conexión, en red, del #[i firewall]
     .bg14.p-4
       img.img-a.img-t.d-block.d-lg-none(data-aos="zoom-in")(src='@/assets/curso/temas/61.svg', alt='Gráfica que muestra la conexión, en red, de un firewall o cortafuegos.')
       img.img-a.img-t.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/temas/60.svg', alt='Gráfica que muestra la conexión, en red, de un firewall o cortafuegos.') 
@@ -33,7 +33,7 @@
       .col-lg-8.my-3 
         .bg9.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 La nueva generación de cortafuegos, llamada de aplicación, es capaz de analizar algunos cuerpos de paquetes, como los de los protocolos SMTP, HTTP. Este nivel de análisis permite atenuar las nuevas formas de ataque que se aprovechan de los fallos de las aplicaciones estándar.
-        p(data-aos="fade-down") Un complemento del cortafuegos es el servidor proxy; se utiliza particularmente en el ámbito del tráfico #[i #[b.tb Hyper Text Transfer Protocol]] (HTTP) o, incluso, con #[i #[b.tb File Transfer Protocol]] (FTP), en la red LAN e Internet. El servidor #[i #[b.tb proxy]] intercepta una petición hacia el exterior, la redirecciona como si fuera suya y, seguidamente, almacena los datos recibidos. Por último, este los envía al solicitante inicial.          
+        p(data-aos="fade-down") Un complemento del cortafuegos es el servidor #[i proxy]; se utiliza particularmente en el ámbito del tráfico #[i #[b.tb Hyper Text Transfer Protocol]] (HTTP) o, incluso, con #[i #[b.tb File Transfer Protocol]] (FTP), en la red LAN e Internet. El servidor #[i #[b.tb proxy]] intercepta una petición hacia el exterior, la redirecciona como si fuera suya y, seguidamente, almacena los datos recibidos. Por último, este los envía al solicitante inicial.          
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.png', alt='')
 
