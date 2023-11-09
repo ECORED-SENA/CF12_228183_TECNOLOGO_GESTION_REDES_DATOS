@@ -94,7 +94,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img.img-a.img-t(src='@/assets/curso/temas/40.svg' alt='')
-              h2.fst-italic Rasnsomware 
+              h2.fst-italic Ransomware  
               p.mb-0 Tipo de #[i malware] que basa su funcionamiento en el robo o secuestro de información por la que se suele cobrar un rescate y, así, restaurar el acceso a los datos y evitar posibles daños posteriores. 
     Separador 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -121,7 +121,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/x56FT_OVARQ?si=Iw90gfpqp8CL-65S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
-        figcaption Video. Ataques de seguridad en la red
+        figcaption Video. Ataques a la seguridad de la red
 </template>
 
 <script>
